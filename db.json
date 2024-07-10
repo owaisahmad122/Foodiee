@@ -1,0 +1,62 @@
+{
+  "employee": [
+    {
+      "name": "Ricky Ponting",
+      "email": "rp@in.com",
+      "phone": "98899090",
+      "active": true,
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Robert",
+      "email": "robert@in.com",
+      "phone": "908908767"
+    },
+    {
+      "id": 4,
+      "name": "Kane Williamson",
+      "email": "kw@in.com",
+      "phone": "908908767"
+    },
+    {
+      "name": "ahmad",
+      "email": "owais.ahmad111@hcl.com",
+      "phone": "+918917438437",
+      "active": true,
+      "id": 6
+    }
+  ],
+  "signup": [
+    {
+      "id": 1,
+      "name": "Nihira tech",
+      "email": "nihiratechiees1@gmail.com"
+    },
+    {
+      "email": "owais.ahmad@hcl.com",
+      "password": "King123",
+      "id": 2
+    },
+    {
+      "email": "owais.ahma111d@hcl.com",
+      "password": "King123",
+      "id": 3
+    },
+    {
+      "email": "owais.ahmad1@hcl.com",
+      "password": "1111",
+      "id": 4
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 5
+    },
+    {
+      "email": "",
+      "password": "",
+      "id": 6
+    }
+  ]
+}
